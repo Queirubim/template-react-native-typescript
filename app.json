@@ -1,4 +1,6 @@
 {
+  "name": "Allan",
+  "displayName" :"Allan Display",
   "expo": {
     "name": "template-expo-typescript",
     "slug": "template-expo-typescript",
